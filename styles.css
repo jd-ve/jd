@@ -1,0 +1,41 @@
+			td {
+				align: center;
+				text-align: center;
+				vertical-align: top;
+			}
+            .btn {
+				background-color: default;
+                width: 100px;
+                height: 25px;
+                border: none;
+                border-radius: 3px;
+				cursor: pointer;
+            }
+            .btn:hover {
+                background-color: gray;
+                color: white;
+            }
+            .verde {
+                background-color: #A9F5A9;
+                color: black;
+            }
+            .verde:hover {
+                background-color: #4CAF50;
+                color: white;
+            }
+            .rojo {
+                background-color: #F6CECE;
+                color: black;
+            }
+            .rojo:hover {
+                background-color: #f44336;
+				color: white;
+            }
+            .azul {
+				background-color: #CEE3F6;
+				color: black;
+            }
+            .azul:hover {
+				background-color: #008CBA;
+				color: white;
+            }
